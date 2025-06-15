@@ -3,7 +3,7 @@ cml - cmus launch idk, for Termux
 
 ## overkill bit-perfect audio on adrod, with no closed source stuff
 
-i hope theres an oss one that has this soon
+i hope theres an oss app that can do this soon
 
 placeholder text
 
