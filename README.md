@@ -17,4 +17,7 @@ if you dont need the volume thing just use the cmus build by itself
 
 also you need an USB DAC
 
-e
+credits
+
+- https://github.com/cmus/cmus for cmus
+- https://ryan.himmelwright.net/post/scripting-tmux-workspaces for the tmux pane join
