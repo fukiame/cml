@@ -45,6 +45,7 @@ now launch cmus with root (e.g `sudo cmus`) and config it to use ALSA, replace t
 ```
 
 now use cmus, or check its tutorial if you dont already know how to, and ur good to go i guess
+
 be careful since by default ALSA set its volume to max (the script auto sets it to 1 to account for that)
 
 ### credits
