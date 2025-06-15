@@ -1,0 +1,20 @@
+cml - cmus launch idk, for Termux
+=================================
+
+## overkill bit-perfect audio on adrod, with no closed source stuff
+
+i hope theres an oss one that has this soon
+
+placeholder text
+
+for the script, requirements:
+
+- [these](https://github.com/fukiame/termux-packages/actions) builds of cmus with ALSA enabled
+- alsa-utils
+- tmux
+
+if you dont need the volume thing just use the cmus build by itself
+
+also you need an USB DAC
+
+e
