@@ -11,7 +11,7 @@ placeholder text
 
 for the script, requirements:
 
-- [these](https://github.com/fukiame/termux-packages/actions) builds of cmus with ALSA enabled
+- cmus
 - alsa-utils
 - tmux
 
